@@ -41,10 +41,10 @@ Watchface.exe 7e16e26c268d/7e16e26c268d.json
 
 ![](images/palete-175x22.jpg)
 -   **Black**  0x000000
--   **Cyan**  0x0000FF
+-   **Blue**  0x0000FF
 -   **Green**  0x00FF00
 -   **Red**  0xFF0000
--   **Blue**  0x00FFFF
+-   **Cyan**  0x00FFFF
 -   **Purple**  0xFF00FF
 -   **Yellow**  0xFFFF00
 -   **White**  0xFFFFFF
