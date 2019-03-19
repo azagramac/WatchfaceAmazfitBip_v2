@@ -3,7 +3,7 @@
 # Watchface for Amazfit Bip
 
 <p align="center">
-	<img src="images/7e16e26c268d_packed_animated.gif" alt="GIF 1" width="176px" />
+	<img src="images/preview.gif" alt="GIF 1" width="176px" />
 </p>
 
 
