@@ -74,7 +74,7 @@ Watchface.exe 7e16e26c268d/7e16e26c268d.json
         "X": 41, // position on the shaft XY
         "Y": 3,
         "ImageIndex": 4, // we will indicate that the units of the hours
-        "ImagesCount": 10 // will start in the image 001.png up the image 010.png
+        "ImagesCount": 10 // will start in the image 004.png up the image 013.png
       }
     },
     "Minutes": {
@@ -82,13 +82,13 @@ Watchface.exe 7e16e26c268d/7e16e26c268d.json
         "X": 2, // position on the shaft XY
         "Y": 60,
         "ImageIndex": 14, // we will indicate that the units of the minutes
-        "ImagesCount": 10 // will start in the image 014.png up the image 010.png
+        "ImagesCount": 10 // will start in the image 014.png up the image 023.png
       },
       "Ones": {
         "X": 41, // position on the shaft XY
         "Y": 60,
         "ImageIndex": 14, // we will indicate that the units of the minutes
-        "ImagesCount": 10 // will start in the image 014.png up the image 010.png
+        "ImagesCount": 10 // will start in the image 014.png up the image 023.png
       }
     }
   },
@@ -106,7 +106,7 @@ Watchface.exe 7e16e26c268d/7e16e26c268d.json
       "Alignment": "TopLeft",
       "Spacing": 2,
       "ImageIndex": 24, // the images of the counters
-      "ImagesCount": 10 // will start in the image 011.png up the image 020.png
+      "ImagesCount": 10 // will start in the image 024.png up the image 033.png
     },
 ```
 
@@ -120,7 +120,7 @@ Watchface.exe 7e16e26c268d/7e16e26c268d.json
       "Alignment": "TopLeft",
       "Spacing": 2,
       "ImageIndex": 24, // the images of the counters
-      "ImagesCount": 10 // will start in the image 011.png up the image 020.png
+      "ImagesCount": 10 // will start in the image 024.png up the image 033.png
     }
 ```
 
